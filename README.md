@@ -4,7 +4,12 @@ Fast & Furious
 
 # SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
-Effective control and management of traffic flow becomes increasingly important nowadays. A good control system can only be built based on precise prediction and measurement of  traffic volume. Multiple factors, such as time of day and whether it is a holiday period, can play significant roles when people estimate the volume. Other factors, like weather conditions, are relevant, but it is difficult to measure their impacts. In this work, our team will apply different approaches to tackle the challenge of predicting traffic volume. Data used in experiments are provided by “Hanzhou Jiaotong & Amap” as part of KDD cup 2017 competition. The competition results are measured and ranked based on the “Mean Absolute Percentage Error (MAPE)” score of final proposals. The winning teams of this competition managed to get MAPE less than 13. Our team has selected the proposed solution from the 1st ranked team - Team：Convolution as our reference.
+Along with the fast development of interconnected economy, modern-day traffic networks have become larger and more complex. Ineffective management of these traffic networks have multiple negative impacts on the individual as well as the national economy. 
+
+The study aims to use machine learning algorithms such as XGBoost and LightGBM to predict the conditions at traffic bottlenecks such as highway tollgates to reduce congestion, enhance road users’ experience and improve infrastructure management. 
+
+There are two main issues focused in this study, the first is to forecast the average traveling time through the tollgates and the second is to estimate the traffic volume at the tollgates. 
+
 
 # SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 | Official Full Name | Student ID (MTech Applicable)| Work Items (Who Did What) | Email (Optional) |
@@ -22,13 +27,15 @@ $ git clone https://github.com/ddgone2far/PR-ISSM-2019-09-28-IS1PT-GRP-FastNFuri
 
 (Ensure Anaconda is installed)
 
-$ pip install math numpy pandas matplotlib xgboost sklearn
+$ pip install math numpy pandas matplotlib xgboost sklearn seaborn
 
 $ cd ./PR-ISSM-2019-09-28-IS1PT-GRP-FastNFurious/scripts
 
 $ jupyter notebook
 
-(open up final_work.ipynb)
+(open up Travel_Time_Prediction-clean_data.ipynb.ipynb)
+(open up Travel_Time_Prediction.ipynb)
+(open up Travel_Volume_Prediction.ipynb)
 
 # SECTION 5 : PROJECT REPORT / PAPER
 
