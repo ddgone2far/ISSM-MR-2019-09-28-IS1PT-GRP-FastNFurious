@@ -34,7 +34,9 @@ $ cd ./PR-ISSM-2019-09-28-IS1PT-GRP-FastNFurious/scripts
 $ jupyter notebook
 
 (open up Travel_Time_Prediction-clean_data.ipynb.ipynb)
+
 (open up Travel_Time_Prediction.ipynb)
+
 (open up Travel_Volume_Prediction.ipynb)
 
 # SECTION 5 : PROJECT REPORT / PAPER
