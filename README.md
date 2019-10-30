@@ -18,13 +18,13 @@ Effective control and management of traffic flow becomes increasingly important 
 
 [ 1 ] To run Jupyter Notebook
 
-$ git clone https://github.com/ddgone2far/ISSM-MR-2019-09-28-IS1PT-GRP-FastNFurious.git
+$ git clone https://github.com/ddgone2far/PR-ISSM-2019-09-28-IS1PT-GRP-FastNFurious.git
 
 (Ensure Anaconda is installed)
 
 $ pip install math numpy pandas matplotlib xgboost sklearn
 
-$ cd ./ISSM-MR-2019-09-28-IS1PT-GRP-FastNFurious/
+$ cd ./PR-ISSM-2019-09-28-IS1PT-GRP-FastNFurious/scripts
 
 $ jupyter notebook
 
