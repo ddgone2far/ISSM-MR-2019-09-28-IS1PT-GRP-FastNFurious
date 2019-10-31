@@ -1,7 +1,7 @@
 # SECTION 1 : PROJECT TITLE
 Fast & Furious
 
-<img src="Figure_1.PNG" alt="Tollgate Traffic Prediction" align="middle">
+<img src="capture.PNG" alt="Tollgate Traffic Prediction" align="middle">
 
 https://github.com/ddgone2far/PR-ISSM-2019-09-28-IS1PT-GRP-FastNFurious/blob/master/front_page.png
 <p>**The image is provided by KDD Cup 2017** </p>
