@@ -5,7 +5,7 @@ https://github.com/ddgone2far/PR-ISSM-2019-09-28-IS1PT-GRP-FastNFurious/blob/mas
 (By Ilya Kovshik, Royalty-free stock vector ID:1114679849)
 Reference: https://www.shutterstock.com/image-vector/checkpoint-on-toll-road-barrier-booth-1114679849
 
-<img src="..\data\dataSets\training\Figure_1.PNG" alt="Tollgate Traffic Prediction">
+<img src="Figure_1.PNG" alt="Tollgate Traffic Prediction" align="middle">
 
 # SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
