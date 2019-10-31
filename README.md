@@ -27,7 +27,7 @@ $ git clone https://github.com/ddgone2far/PR-ISSM-2019-09-28-IS1PT-GRP-FastNFuri
 
 (Ensure Anaconda is installed)
 
-$ pip install math numpy pandas matplotlib xgboost sklearn seaborn
+$ pip install math numpy pandas matplotlib xgboost lightgbm sklearn seaborn
 
 $ cd ./PR-ISSM-2019-09-28-IS1PT-GRP-FastNFurious/scripts
 
