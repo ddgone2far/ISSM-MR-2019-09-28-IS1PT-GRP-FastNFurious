@@ -14,8 +14,8 @@ There are two main issues focused in this study, the first is to forecast the av
 # SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 | Official Full Name | Student ID (MTech Applicable)| Work Items (Who Did What) | Email (Optional) |
 | :---: | :---: | :---: | :---: |
-| DAI YIRUI | A0195167U | Business idea generation, Data downloading, Baseling Modeling, Volume Prediciton Using XGBoost, Project Report, Latex Report Generating | e0384798@u.nus.edu |
-| DONG MEIRONG | A0195346W | Business idea generation, Proposal Presentation, Baseling Modeling, Speed Prediciton, Project Report | e0384977@u.nus.edu |
+| DAI YIRUI | A0195167U | Business idea generation, Data downloading, Baseline Modeling, Volume Prediciton Using XGBoost, Project Report, Latex Report Generating | e0384798@u.nus.edu |
+| DONG MEIRONG | A0195346W | Business idea generation, Proposal Presentation, Baseline Modeling, Speed Prediciton, Project Report | e0384977@u.nus.edu |
 | LIM CHONG SENG HERMANN | A0195392U	| Business idea generation, Volume Prediciton Using LightGBM, Project Report	| e0385023@u.nus.edu |
 
 
