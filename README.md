@@ -1,6 +1,9 @@
 # SECTION 1 : PROJECT TITLE
 Fast & Furious
 
+https://github.com/ddgone2far/PR-ISSM-2019-09-28-IS1PT-GRP-FastNFurious/blob/master/front_page.png
+(By Ilya Kovshik, Royalty-free stock vector ID:1114679849)
+Reference: https://www.shutterstock.com/image-vector/checkpoint-on-toll-road-barrier-booth-1114679849
 
 # SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
