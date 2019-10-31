@@ -5,6 +5,8 @@ https://github.com/ddgone2far/PR-ISSM-2019-09-28-IS1PT-GRP-FastNFurious/blob/mas
 (By Ilya Kovshik, Royalty-free stock vector ID:1114679849)
 Reference: https://www.shutterstock.com/image-vector/checkpoint-on-toll-road-barrier-booth-1114679849
 
+<img src="..\data\dataSets\training\Figure_1.PNG" alt="Tollgate Traffic Prediction">
+
 # SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
 Along with the fast development of interconnected economy, modern-day traffic networks have become larger and more complex. Ineffective management of these traffic networks have multiple negative impacts on the individual as well as the national economy. 
